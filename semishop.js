@@ -6,4 +6,5 @@ const q1 = await takeInput(`Any history of cardiovascular events?`)
 console.log (`This is a ${name}, a ${age}`)
 }
 
-clinic()
+clinic() 
+//  helo0 
