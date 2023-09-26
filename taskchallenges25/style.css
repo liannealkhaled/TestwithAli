@@ -5,6 +5,7 @@ body {
     display: flex ;
     align-items: start;
     justify-content: end;
+    padding: 20px
     /* object-position: center; */
   
     /* margin:10px; */
